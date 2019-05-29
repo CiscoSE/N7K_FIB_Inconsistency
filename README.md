@@ -9,21 +9,6 @@ Due to a software defect on N7k, there can be some routes incorrectly programmed
 
 This script is an on-box script. It collects the current list of inconsistent routes and then clears them to recover. 
 
-## Show Me!
-
-What visual, if shown, clearly articulates the impact of what you have created?  In as concise a visualization as possible (code sample, CLI output, animated GIF, or screenshot) show what your project makes possible.
-
-## Features
-
-Include a succinct summary of the features/capabilities of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Technologies & Frameworks Used
-
-This is Cisco Sample Code!  What Cisco and third-party technologies are you working with?  Are you using a coding framework or software stack?  A simple list will set the context for your project.
 
 **Cisco Products & Services:**
 
