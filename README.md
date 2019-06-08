@@ -34,4 +34,3 @@ Copy the script to the Nexus switch bootflash:scripts directory.
 
 This project is licensed to you under the terms of the [Cisco Sample
 Code License](./LICENSE).
-# N7K_FIB_Inconsistency
